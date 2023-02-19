@@ -19,7 +19,7 @@ class DeliveryFeeController @Inject()(val controllerComponents: ControllerCompon
   implicit val deliveryFeeInputJson: OFormat[DeliveryInformation] = Json.format[DeliveryInformation]
 
   /**
-   * /deliveryCost Endpoint, calculates delivery cost in cents using provided data in json format (DeliveryInformation)
+   * /calculateDeliveryFee Endpoint, calculates delivery cost in cents using provided data in json format (DeliveryInformation)
    *
    * @return Json with calculated delivery cost.
    *         If error occurred returns json with error code and description
