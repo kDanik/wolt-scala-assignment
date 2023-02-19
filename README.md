@@ -1,9 +1,15 @@
 ## Delivery Fee Calculator
 - [Delivery Fee Calculator](#delivery-fee-calculator)
+  * [Description](#description)
   * [Building and running project](#building-and-running-project)
   * [Running project with Docker](#running-project-with-docker)
   * [Testing](#testing)
-  
+
+### Description
+This project is my solution for Wolt Summer 2023 Engineering Internship assignment.
+
+Source: https://github.com/woltapp/engineering-summer-intern-2023
+
 ### Building and running project
 Java 11 should be used for project to run.
 
