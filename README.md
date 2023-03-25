@@ -6,7 +6,7 @@
   * [Testing](#testing)
 
 ### Description
-This project is my solution for Wolt Summer 2023 Engineering Internship assignment.
+This project was my solution for Wolt Engineering Internship assignment.
 
 Source: https://github.com/woltapp/engineering-summer-intern-2023
 
